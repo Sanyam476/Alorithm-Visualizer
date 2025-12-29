@@ -6,3 +6,6 @@ Algorithm Visualizer is a simple web-based project that helps users understand h
 ## Team Members:
 - Srinjoy Pande
 - Sanyam Gosain
+
+- ## Deployment Link:
+- https://search-sort-visualizer.netlify.app/
